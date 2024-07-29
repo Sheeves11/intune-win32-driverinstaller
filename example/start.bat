@@ -1,1 +1,1 @@
-powershell.exe -executionpolicy bypass -File "installprinter.ps1"
+powershell.exe -executionpolicy bypass -File "install.ps1"
