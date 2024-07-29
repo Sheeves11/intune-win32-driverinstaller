@@ -1,0 +1,5 @@
+this is a blank file in the structure that you will drop your finished intune.win file into
+after building it.
+
+An intune.win is what gets uploaded to Intune and then deployed to computers. There is a packager 
+called "IntuneWinAppUtil.exe" that you will need to create the package.
